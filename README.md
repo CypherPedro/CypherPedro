@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**CypherPedro/CypherPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pedro - Desenvolvedor Web Full-Stack
+Sobre mim
+Olá! Sou Pedro, um apaixonado por tecnologia e desenvolvimento web. Atualmente sou aluno da Cubos Academy, onde estou aprimorando minhas habilidades como desenvolvedor Full-Stack.
 
-Here are some ideas to get you started:
+Idade: 23 anos
+Tecnologias que estou aprendendo
+JavaScript
+TypeScript
+NodeJS
+CSS
+HTML
+Interesses
+Além da programação, tenho interesse em jogos e computadores, explorando novas tecnologias e tendências nesses campos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos
+Aqui estão alguns dos projetos em que estou trabalhando ou já concluí:
+
+1 https://github.com/CypherPedro/desafio-de-logica-modulo-1
