@@ -1,6 +1,6 @@
-### Hi there 👋
 
-Pedro - Desenvolvedor Web Full-Stack
+
+### Pedro - Desenvolvedor Web Full-Stack
 Sobre mim
 Olá! Sou Pedro, um apaixonado por tecnologia e desenvolvimento web. Atualmente sou aluno da Cubos Academy, onde estou aprimorando minhas habilidades como desenvolvedor Full-Stack.
 
